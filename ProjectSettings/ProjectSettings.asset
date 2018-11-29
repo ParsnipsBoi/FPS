@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: f6c74717f604d194686511bd84205bee
+  productGUID: c2d8507a5c0b4a543844cb04125816f0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Tower defence
+  productName: Tower Defence Game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 8668b2fe-f984-4650-8a4b-81e8b8430868
-  projectName: Tower defence
+  cloudProjectId: 165d5a72-79b9-4e24-b5a2-f4aebb5ca1c5
+  projectName: Tower Defence Game
   organizationId: unity_475892
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
